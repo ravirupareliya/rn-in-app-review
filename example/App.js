@@ -15,7 +15,7 @@ import {
 import RNInAppReview from 'rn-in-app-review'
 
 const App: () => React$Node = () => {
-  RNInAppReview.launchReviewFlow((asd)=>console.log('RNInAppReview' , asd))
+  RNInAppReview.launchReviewFlow((isSuccessful)=>console.log('RNInAppReview ' , isSuccessful))
   return (
     <SafeAreaView>
       <View>

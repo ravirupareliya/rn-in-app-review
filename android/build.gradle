@@ -73,6 +73,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
+    implementation "com.google.android.play:core:${safeExtGet('playCoreVersion', '1.8.0')}"
 }
 
 def configureReactNativePom(def pom) {

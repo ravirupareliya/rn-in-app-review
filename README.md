@@ -3,6 +3,8 @@
 ## Getting started
 
 `$ npm install rn-in-app-review --save`
+<br>or<br>
+`$ yarn add rn-in-app-review`
 
 ### Mostly automatic installation
 
@@ -12,6 +14,6 @@
 ```javascript
 import RnInAppReview from 'rn-in-app-review';
 
-// TODO: What to do with the module?
-RnInAppReview;
+RNInAppReview.launchReviewFlow((isSuccessful)=>console.log('RNInAppReview ' , isSuccessful))
+
 ```
