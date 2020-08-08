@@ -10,6 +10,8 @@
 
 - Don't use buttons or other controls to request feedback. Since the system limits how often rating prompts occur, attempting to request feedback in response to a control may result in no rating prompt being displayed.
 
+- The system automatically limits the display of the prompt to **three occurrences per app within a 365-day period.**
+
 # Android 
 
 - Trigger the in-app review flow after a user has experienced enough of your app or game to provide useful feedback.
