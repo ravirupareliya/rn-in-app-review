@@ -1,0 +1,43 @@
+{
+  "name": "rn-in-app-review",
+  "title": "React Native Rn In App Review",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "homepage":"https://github.com/ravirupareliya/rn-in-app-review",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "rn-in-app-review.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravirupareliya/rn-in-app-review.git",
+    "baseUrl": "https://github.com/ravirupareliya/rn-in-app-review"
+  },
+  "keywords": [
+    "react-native",
+    "in-app-review",
+    "android-in-app-review",
+    "ios-in-app-review"
+  ],
+  "author": {
+    "name": "Ravi Rupareliya"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
