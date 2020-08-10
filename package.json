@@ -1,8 +1,8 @@
 {
   "name": "rn-in-app-review",
   "title": "React Native Rn In App Review",
-  "version": "0.0.5",
-  "description": "TODO",
+  "version": "0.0.7",
+  "description": "React native package to add in app review functionality for android and ios applications",
   "main": "index.js",
   "homepage":"https://github.com/ravirupareliya/rn-in-app-review",
   "files": [

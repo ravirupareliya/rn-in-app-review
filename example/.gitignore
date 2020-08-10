@@ -21,6 +21,12 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+# CocoaPods
+/ios/Pods/
+yarn.lock
+ios/Podfile.lock
+
+
 # Android/IntelliJ
 #
 build/
@@ -55,5 +61,3 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
-# CocoaPods
-/ios/Pods/

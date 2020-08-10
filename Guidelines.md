@@ -12,6 +12,8 @@
 
 - The system automatically limits the display of the prompt to **three occurrences per app within a 365-day period.**
 
+- When you call this method while your app is still in development mode, a rating/review request view is always displayed so that you can test the user interface and experience. However, this method has no effect when you call it in an app that you distribute using TestFlight.
+
 # Android 
 
 - Trigger the in-app review flow after a user has experienced enough of your app or game to provide useful feedback.
