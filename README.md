@@ -4,6 +4,10 @@ Now you can integrate this to react native and in-app review dialog can be shown
 
 ## Supports both android and iOS
 
+![Android](https://github.com/ravirupareliya/rn-in-app-review/blob/master/android.jpg)
+![iOS](https://github.com/ravirupareliya/rn-in-app-review/blob/master/ios.png)
+
+
 ## Getting started
 
 `$ npm install rn-in-app-review --save`
