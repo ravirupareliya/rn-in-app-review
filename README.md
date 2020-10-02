@@ -1,5 +1,13 @@
 # rn-in-app-review
 
+Now you can integrate this to react native and in-app review dialog can be shown to user. User doesn't need to move to play store or app store to submit their review.
+
+## Supports both android and iOS
+
+![Android](https://github.com/ravirupareliya/rn-in-app-review/blob/master/android.jpg)
+![iOS](https://github.com/ravirupareliya/rn-in-app-review/blob/master/ios.png)
+
+
 ## Getting started
 
 `$ npm install rn-in-app-review --save`
