@@ -25,7 +25,7 @@ Now you can integrate this to react native and in-app review dialog can be shown
 
 ## Usage
 ```javascript
-import RnInAppReview from 'rn-in-app-review';
+import RNInAppReview from 'rn-in-app-review';
 
 RNInAppReview.launchReviewFlow((isSuccessful)=>console.log('RNInAppReview ' , isSuccessful))
 
