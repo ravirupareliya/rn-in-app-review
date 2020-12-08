@@ -1,4 +1,9 @@
-# rn-in-app-review
+# react-native-in-app-review
+
+![npm](https://img.shields.io/npm/v/rn-in-app-review?logo=npm)
+
+![npm](https://img.shields.io/npm/dw/rn-in-app-review?logo=npm)
+
 
 Now you can integrate this to react native and in-app review dialog can be shown to user. User doesn't need to move to play store or app store to submit their review.
 
