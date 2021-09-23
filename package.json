@@ -4,10 +4,12 @@
   "version": "0.0.7",
   "description": "React native package to add in app review functionality for android and ios applications",
   "main": "index.js",
+  "types": "index.d.ts",
   "homepage":"https://github.com/ravirupareliya/rn-in-app-review",
   "files": [
     "README.md",
     "android",
+    "index.d.ts",
     "index.js",
     "ios",
     "rn-in-app-review.podspec"
